@@ -19,12 +19,9 @@ const Game: React.FC = () => {
   const restartRef = useRef<HTMLButtonElement>(null);
 
   useEffect(() => {
-    const canvas = canvasRef.current;
-    const container = containerRef.current;
-    if (!canvas || !container) return;
-
-    const ctx = canvas.getContext("2d");
-    if (!ctx) return;
+    const canvas = canvasRef.current!;
+    const container = containerRef.current!;
+    const ctx = canvas.getContext("2d")!;
 
     // Define prototype extensions as in game.md
     if (!Array.prototype.last) {
