@@ -1,0 +1,54 @@
+{
+  "dark-blue": {
+    "value": "#00008B",
+    "name": "Dark Blue"
+  },
+  "black": {
+    "value": "#170F1E",
+    "name": "Black"
+  },
+  "turquoise": {
+    "value": "#40DDFF",
+    "name": "Turquoise"
+  },
+  "medium-slate-blue": {
+    "value": "#7C7EFF",
+    "name": "Medium Slate Blue"
+  },
+  "medium-slate-blue-1": {
+    "value": "#7C7FFF",
+    "name": "Medium Slate Blue"
+  },
+  "gray": {
+    "value": "#838383",
+    "name": "Gray"
+  },
+  "yellow-green": {
+    "value": "#ACFF2F",
+    "name": "Yellow Green"
+  },
+  "yellow-green-1": {
+    "value": "#ADFF2F",
+    "name": "Yellow Green"
+  },
+  "thistle": {
+    "value": "#D8BAFF",
+    "name": "Thistle"
+  },
+  "gainsboro": {
+    "value": "#E5E1E6",
+    "name": "Gainsboro"
+  },
+  "white-smoke": {
+    "value": "#F5F5F5",
+    "name": "White Smoke"
+  },
+  "khaki": {
+    "value": "#F9D855",
+    "name": "Khaki"
+  },
+  "orange": {
+    "value": "#FFA500",
+    "name": "Orange"
+  }
+}
