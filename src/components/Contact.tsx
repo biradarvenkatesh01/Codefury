@@ -5,20 +5,21 @@ const Contact: React.FC = () => {
   const contacts = [
     {
       role: "CHAIRPERSON, CS IEEE UVCE",
-      name: "Namratha Sridhar",
-      phone: "+91 90084 16648",
-      email: "namrathasridhar29@ieee.org",
-      whatsapp: "https://wa.me/917406543569",
+      name: "Yashaswini C Rao",
+      phone: "+91 99999 11111",
+      email: "idk@ieee.org",
+      whatsapp: "https://wa.me/919999999999",
       theme: "turquoise"
     },
     {
       role: "VICE CHAIRPERSON, CS IEEE UVCE",
-      name: "Gagana K H",
-      phone: "+91 96632 40594",
-      email: "gaganakh052@gmail.com",
-      whatsapp: "https://wa.me/919108562257",
+      name: "Nikhil Hegde",
+      phone: "+91 99999 11111",
+      email: "idk@gmail.com",
+      whatsapp: "https://wa.me/919999999999",
       theme: "lime"
     }
+    
   ];
 
   return (

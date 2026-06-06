@@ -3,9 +3,8 @@ import { Linkedin } from 'lucide-react';
 
 const Footer: React.FC = () => {
   const developers = [
-    { name: "Dhruv Rathi", link: "https://www.linkedin.com/in/dhruv-rathi-399378282/" },
-    { name: "Lahari Priya N", link: "https://www.linkedin.com/in/lahari-priya-n/" },
-    { name: "Rahita H Puthran", link: "https://www.linkedin.com/in/rahita-puthran-1262202a5/" }
+    { name: "Shravya Ganesh Hegde", link: "https://www.linkedin.com/in/shravya-hegde-732ba7311/" },
+    { name: "Venkatesh Biradar", link: "https://www.linkedin.com/in/venkateshbiradar/" }
   ];
 
   return (
@@ -82,7 +81,7 @@ const Footer: React.FC = () => {
 
         {/* Brand Copyright */}
         <p style={{ fontSize: '0.8rem', color: 'var(--text-gray)', margin: 0 }}>
-          &copy; {new Date().getFullYear()} CodeFury 8.0. All rights reserved.
+          &copy; {new Date().getFullYear()} CodeFury 9.0. All rights reserved.
         </p>
       </div>
 
