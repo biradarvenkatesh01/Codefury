@@ -6,11 +6,9 @@ This document provides a comprehensive overview of the **CodeFury 8.0** webpage.
 
 ## 1. Webpage Metadata & General Structure
 
-*   **Page Title:** `CodeFury 8.0`
+*   **Page Title:** `CodeFury 9.0`
 *   **Favicon:** `src/assets/ieee-logo.png` (IEEE Logo)
 *   **Typography:** *Orbitron* Google Font (specifically loaded for headers)
-*   **Google Analytics Integration:**
-    *   Measurement ID (Tracking ID): `G-89VJD7YWZN` (in `index.html`) & `G-XXXXXXXXXX` (initialized in `App.tsx` via `react-ga4`)
 *   **Layout Component Hierarchy (Renders inside `#root` in `index.html` via `App.tsx`):**
     *   `<ParticleBackground />` (Interactive background particle effect)
     *   `<Header />` (Fixed top navigation bar and responsive dropdown menu)
@@ -58,15 +56,15 @@ This document provides a comprehensive overview of the **CodeFury 8.0** webpage.
 
 ### 2.2. Hero Component (`Hero.tsx`)
 *   **Presenting Organization:** `IEEE UVCE Computer Society Presents`
-*   **Event Heading:** `CodeFury 8.0`
+*   **Event Heading:** `CodeFury 9.0`
 *   **Tagline:** `Fury in Code, Ready to Explode`
 *   **Category:** `Annual National - Level Hackathon`
 *   **Powering Partner:** Powered by `ART PARK I-Hub @ IISc`
-*   **Event Dates:** `22nd, 23rd & 24th August 2025`
-*   **Countdown Target Date:** Countdown timer targets `August 22, 2025, at 18:00:00 (6:00 PM IST)`.
-*   **Registration Status:** Closed
-    *   **Notification Text:** `>>> REGISTRATIONS CLOSED`
-    *   **Detailed Message:** `Registrations for CodeFury 8.0 closed on 21st August 2025, 4:00 PM. SEE YOU AT CODEFURY 9.0!`
+*   **Event Dates:** `22nd, 23rd & 24th August 2026`
+*   **Countdown Target Date:** Countdown timer targets `August 22, 2026, at 18:00:00 (6:00 PM IST)`.
+*   **Registration Status:** Open
+    *   **Notification Text:** `>>> REGISTRATIONS OPEN`
+    *   **Detailed Message:** `Registrations for CodeFury 9.0 are Live!`
 *   **Co-Presenters (Logos & Instagram Links):**
     *   **IEEE UVCE:** Logo: `src/assets/ieee-logo.png` | Link: [IEEE UVCE Instagram](https://www.instagram.com/ieeeuvce)
     *   **IEEE UVCE Computer Society:** Logo: `src/assets/cs-logo.png` | Link: [IEEE UVCE Computer Society Instagram](https://www.instagram.com/ieee.uvce.cs)
